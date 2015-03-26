@@ -15,7 +15,7 @@ interest I am pleasantly surprised at how much I seem to remember from "the good
 
 First Project - Samsung Monitor Adapter
 ---------------------------------------
-![Rendering](https://github.com/jwmickey/printables/blob/master/samsung-vesa-adapter/monitor-mount.jpg)
+![Rendering](https://raw.githubusercontent.com/jwmickey/printables/master/samsung-vesa-adapter/monitor-mount.jpg)
 
 I wanted to mount my Samsung 24" monitor on the wall using a 75mm VESA mount, but the S24B350 does not 
 have a mounting pattern on the body of any kind.  This is a great monitor but if I had been smart enough 
